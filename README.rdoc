@@ -1,2 +1,2 @@
 == README
-My studies of Ruby on Rails
+My studies of Ruby on Rails (Work in Progress)
